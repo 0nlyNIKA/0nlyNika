@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá! Eu sou a Nicolly (OnlyNIKA)
 
-<!--
-**0nlyNIKA/0nlyNika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonada por tecnologia, criatividade e aprendizado contínuo  
+🌱 Atualmente estudando: HTML, CSS, JavaScript e Lógica de Programação  
+🛠️ Em breve: Projetos de desenvolvimento web e aplicações com foco em experiência do usuário  
+📚 Acredito no poder da inclusão, colaboração e do código bem feito  
+✨ Em construção: Meu portfólio de projetos públicos!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Tecnologias e Ferramentas que estou aprendendo:
+- HTML5 / CSS3
+- JavaScript
+- Git / GitHub
+- VS Code
+
+---
+
+### 📫 Vamos nos conectar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil-aqui)
